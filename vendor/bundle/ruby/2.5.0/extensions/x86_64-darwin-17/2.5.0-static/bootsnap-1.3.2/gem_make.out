@@ -1,0 +1,15 @@
+current directory: /Users/marina/git/sample_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/marina/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20181014-99553-1sovfbx.rb extconf.rb
+creating Makefile
+
+current directory: /Users/marina/git/sample_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/marina/git/sample_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/marina/git/sample_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20181014-99553-1i4zfa5/bootsnap
